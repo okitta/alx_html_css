@@ -1,0 +1,2 @@
+This is an ALX css basic project where we manipulate non-positional properties of CSS on the index page created
+during the html basics phase of this program. In this project I have manipulated colors,borders, border-radius, padding and margin and many other properties of CSS.
